@@ -25,7 +25,6 @@ React
 Vue
 TensorFlow
 PyTorch
-+编程
 +开发
 +开源
 !广告
@@ -127,8 +126,6 @@ google
 美国
 日本
 +科技
-+芯片
-+AI
 !广告
 !水果
 !旅游
